@@ -1,7 +1,7 @@
-package com.github.annezdz.citiesapi;
+package com.github.annezdz.citiesapi.countries;
 
 import com.github.annezdz.citiesapi.countries.Country;
-import com.github.annezdz.citiesapi.repository.CountryRepository;
+import com.github.annezdz.citiesapi.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
