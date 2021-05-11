@@ -36,7 +36,7 @@ public class State {
 
     @Type(type="jsonb")
     @Basic(fetch = FetchType.LAZY)
-    @Column(name="ddd", columnDefinition = "jsondb")
+    @Column(name="ddd", columnDefinition = "jsonb")
     private List<Integer> ddd;
 
     public State(){}

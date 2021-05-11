@@ -1,2 +1,22 @@
+com/github/annezdz/citiesapi/states/StateRepository.java
+ com.github.annezdz.citiesapi.states.StateRepository
+com/github/annezdz/citiesapi/countries/Country.java
+ com.github.annezdz.citiesapi.countries.Country
+com/github/annezdz/citiesapi/countries/CountryResource.java
+ com.github.annezdz.citiesapi.countries.CountryResource
+com/github/annezdz/citiesapi/cities/repository/CityRepository.java
+ com.github.annezdz.citiesapi.cities.repository.CityRepository
+com/github/annezdz/citiesapi/states/StateResource.java
+ com.github.annezdz.citiesapi.states.StateResource
+com/github/annezdz/citiesapi/countries/repository/CountryRepository.java
+ com.github.annezdz.citiesapi.countries.repository.CountryRepository
+com/github/annezdz/citiesapi/cities/CityResource.java
+ com.github.annezdz.citiesapi.cities.CityResource
 com/github/annezdz/citiesapi/CitiesApiApplication.java
  com.github.annezdz.citiesapi.CitiesApiApplication
+com/github/annezdz/citiesapi/cities/PointType.java
+ com.github.annezdz.citiesapi.cities.PointType
+com/github/annezdz/citiesapi/cities/City.java
+ com.github.annezdz.citiesapi.cities.City
+com/github/annezdz/citiesapi/states/State.java
+ com.github.annezdz.citiesapi.states.State
